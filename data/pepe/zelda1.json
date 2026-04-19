@@ -1,0 +1,12 @@
+{
+  "id": "zelda1",
+  "nombre": "The Legend of Zelda",
+  "descripcion": "Un juego de aventura épico",
+  "plataforma": "Nintendo Switch",
+  "genero": "Aventura",
+  "desarrolladora": "Nintendo",
+  "lanzamiento": 2017,
+  "multijugador": true,
+  "horasEstimadas": 50,
+  "valorMercado": 39.99
+}
